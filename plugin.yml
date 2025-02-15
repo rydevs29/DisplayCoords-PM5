@@ -1,0 +1,5 @@
+name: DisplayCoords-PM5
+api: 5.0.0
+main: Fred\Load
+version: 1.0.0
+author: Fred

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Fred;
+namespace rydevs29;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;

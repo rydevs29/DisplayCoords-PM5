@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Fred;
+namespace rydevs29;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
